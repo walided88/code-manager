@@ -1,0 +1,19 @@
+{
+  "name": "code-manager",
+  "version": "1.0.0",
+  "description": "This is a module in NodeJS that helps to manage your files. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walided88/file-manager.git"
+  },
+  "author": "walided88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walided88/file-manager/issues"
+  },
+  "homepage": "https://github.com/walided88/file-manager#readme"
+}
