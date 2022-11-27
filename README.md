@@ -1,4 +1,4 @@
-# cod-for-files
+# About code-manager
 
 This is a module in NodeJS that helps to manage your files. 
 By using the 'setAll' method, you can select a part of your code by entering the file name, the line number of the beginning and the line number of the end, as well as an identifier of your choice for the code to select.
